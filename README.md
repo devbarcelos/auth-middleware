@@ -9,11 +9,18 @@ Professional auth-middleware library.
 
 ## Installation
 ```bash
-# Install
+npm install auth-middleware
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('auth-middleware');
 ```
 
+## Testing
+```bash
+npm test
+```
+
+## License
+MIT
